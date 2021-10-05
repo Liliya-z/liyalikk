@@ -1,0 +1,11 @@
+a=float(imput())
+b=float(imput())
+c=float(imput())
+d=float(imput())
+f=Float(imput())
+x=(a*b-c)
+z=(f-d)
+if z==0
+ print("делить на ноль не льзя")
+else:
+ print(x/z)
